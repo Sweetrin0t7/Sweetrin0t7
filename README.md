@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Renata!<br>Tenho 21 anos e estou cursando Sistemas para Internet. <br>Meu interesse por tecnologia começou no ensino médio, onde fiz o curso técnico em Informática e tive meu primeiro contato com programação e lógica de desenvolvimento. <br>Durante esse período, participei de hackathons e maratonas, o que aprofundou ainda mais minha paixão pela área.<br><br>Recentemente, concluí um estágio de 3 meses no programa Vem Ser, onde tive a oportunidade de trabalhar em projetos utilizando Java e Spring. <br>Em seguida, adquiri 3 meses de experiência como desenvolvedora júnior full stack, desenvolvendo habilidades em .NET e Angular. <br>Estou sempre em busca de novos desafios que me permitam crescer profissionalmente e aplicar meus conhecimentos em soluções inovadoras que façam a diferença.
+Olá, meu nome é Renata!<br>Tenho 21 anos e estou cursando Sistemas para Internet.
 
 
 ## 🌐 Socials:
